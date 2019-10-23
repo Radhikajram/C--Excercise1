@@ -20,7 +20,7 @@ namespace Restarunt
         {
             foreach (var emp in empStack)
             {
-                Console.WriteLine(emp.getFirstName());
+                Console.WriteLine($"First Name : {emp.getFirstName()}");
                 Console.WriteLine(emp.getLastName());
                 Console.WriteLine(emp.getSalary());
                 Console.WriteLine("----------------------");
