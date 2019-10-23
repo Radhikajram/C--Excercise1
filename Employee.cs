@@ -41,7 +41,7 @@ namespace Restarunt
         }
         private string firstName;
         private string lastName;
-        private int salary;
+        private int salary ;
         
     }
 }
